@@ -2,3 +2,22 @@
     box-sizing: border-box;
 }
 
+.nav-sobre {
+    text-decoration: none;
+    color: #EEE;
+}
+
+.nav-sobre:hover {
+    text-decoration: none;
+    color: #FFCE44;
+}
+
+#area-search {
+    height: 200px;
+    background-color: #CCC;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;    
+}
+
